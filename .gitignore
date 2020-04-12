@@ -91,7 +91,7 @@ web_modules/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+
 
 # Gatsby files
 .cache/
@@ -100,7 +100,6 @@ dist
 # public
 
 # vuepress build output
-.vuepress/dist
 
 # Serverless directories
 .serverless/
@@ -124,3 +123,4 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
+package-lock.json
